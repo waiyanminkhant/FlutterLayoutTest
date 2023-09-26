@@ -2,15 +2,12 @@
 
 testing flutter layout
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![SplashScreen](https://github.com/waiyanminkhant/FlutterLayoutTest/assets/37637971/b9c3525b-b9da-4e33-aec7-a72ed2013e47)
 
-A few resources to get you started if this is your first Flutter project:
+![GridView](https://github.com/waiyanminkhant/FlutterLayoutTest/assets/37637971/3a4aacda-bec9-4389-a2ba-1f837beebad4)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![ListView](https://github.com/waiyanminkhant/FlutterLayoutTest/assets/37637971/d725f343-b17a-4e88-88ad-b45404f177ba)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Detail](https://github.com/waiyanminkhant/FlutterLayoutTest/assets/37637971/0dfe286e-00ae-4074-8da2-5547639a944e)
